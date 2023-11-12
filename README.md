@@ -60,6 +60,4 @@ The distance between the adjoining points will give the instantenous speed of th
 The tangential angle gives the angle at the joint. This can give us useful info like the hip angle, calf angle, etc.
 These 'keys' are similar to keys used in 3D motion capture animations to record position of individual joints which inturn becomes the basework of the entire animation.
 
-The algorithm produced the following image for the side view of my walk:
 
-![](https://github.com/sarweshshah/gait_analysis/blob/master/results/pose%20trail.gif)
