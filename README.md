@@ -1,4 +1,4 @@
-# Gait Analysis using opencv-python 3.4 on a webcam/video
+# Gait Analysis using opencv-python 3.4 on a Raspberry Pi with NOIR Camera
 
 Gait analysis is analysing an individual by their walking pattern and turns out to be a reliable indentification source.
 As it turns out, it is as reliable and unique as one's fingerprint and retina scan.
